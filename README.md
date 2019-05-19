@@ -1,1 +1,2 @@
-# Intro Salt
+# Intro to Salt
+
